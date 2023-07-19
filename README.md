@@ -1,6 +1,6 @@
 # Apple Vision OS - Demo
 
-This repository contains a 1-minute video demonstration of the **Apple Vision Pro** in action. Using the **Xcode simulator**, I've showcased the powerful features and capabilities of Apple's cutting-edge OS software. Explore the seamless implementation and rich functionality of Apple Vision Pro through this engaging visual tour.
+This repository contains a 1-minute video demonstration of the <u>**Apple Vision Pro**</u> in action. Using the <u>**Xcode simulator**</u>, I've showcased the powerful features and capabilities of Apple's cutting-edge OS software. Explore the seamless implementation and rich functionality of Apple Vision Pro through this engaging visual tour.
 
 ## Demonstration Video
 
